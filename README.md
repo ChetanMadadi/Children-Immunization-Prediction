@@ -1,0 +1,3 @@
+## Children-Immunization-Prediction
+This data mining research project aims to explore the relationship between social and other factors and the immunization status of children aged 0-59 months. The dataset used for this study is the Children’s Recode data from the Demographic and Health Survey (DHS) which contains information related to the child’s pregnancy, postnatal care, immunization, and health. The study will employ data mining techniques to analyze the data and identify patterns and correlations between various factors
+and the immunization status of children. The findings of this study can be used to improve the immunization coverage and health outcomes of children.
